@@ -1,0 +1,30 @@
+
+.navbar-nav a {
+  color: #f5f1f0;
+  font-size:x-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.navbar-nav a:hover {
+    color: #ef0f0f;
+    
+  }
+
+.dropdown-menu {
+    background-color: aqua;
+}
+
+.dropdown-menu a {
+    color:#f5f1f0;
+}
+.dropdown-menu a:hover {
+    color:#ef0fe4;
+    background-color: aqua;
+}
+
+.body{
+  background-color: #ee9bd5;
+}
+
+
